@@ -1,5 +1,5 @@
 ---
-title: "Timing Markets with Macroeconomic Indicators"
+title: "Timing Markets with Macroeconomic Indicators: Part 1"
 description: |
   A short description of the post.
 author:
@@ -9,6 +9,8 @@ date: 12-27-2020
 output:
   distill::distill_article:
     self_contained: false
+    toc: true
+    toc_depth: 2
 draft: true
 ---
 
@@ -20,5 +22,24 @@ knitr::opts_chunk$set(echo = FALSE)
 Distill is a publication format for scientific and technical writing, native to the web.
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
+# What exists: nowcast? vs Philosophical?
+A lot of different nowcast
+Some studies on simple indicators
+
+# Timing on Equity? US vs Other Countries?
+Us is the king
+What about European Countries?
+Japan?
+EM?
+
+# Hedge against crisis?
+Ok better performance, but what about using classic hedges?
+Enhance performance?
+
+
+
+
 
 

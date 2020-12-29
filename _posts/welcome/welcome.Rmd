@@ -1,13 +1,8 @@
 ---
 title: "Welcome to The French Quant Blog"
 description: |
-  Welcome to our new blog, The French Quant Blog. We hope you enjoy 
-  reading what we have to say!
-author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  This is a blog about finance, macroeconomics and data science.
+  
 date: 12-27-2020
 output:
   distill::distill_article:
@@ -23,4 +18,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-
+You will find mostly three types of articles:
+  
+* global macro analysis or insights about financial markets and investments
+* data science and (out of the box) quantitative analysis 
+* tutorial with reproducible example of quant analaysis using R, Python or another language

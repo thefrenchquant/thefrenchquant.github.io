@@ -1,9 +1,25 @@
 ---
-title: "About this blog"
-description: |
-  Some additional details about the blog
----
+title: "Arthur Cluet"
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+
+image: "hqdefault.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/arthurcluet/"
+  - label: Twitter
+    url: "https://twitter.com/thefrenchquant"
+  - label: GitHub
+    url: "https://github.com/thefrenchquant"
+  - label: Email
+    url: "mailto:arthur.cluet@yahoo.fr"
+    
+site: distill::distill_website    
+
+output: postcards::jolla
+  
+
+---
+ 
+I am a classically trained data scientist with a specialization in finance living in Paris. 
+Currently I work at Le BIPE, a strategy consulting firm member of the BDO network. My keen interest lies in finance, macroeconomics and data science.
+
